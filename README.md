@@ -1,2 +1,2 @@
-# RabbitMQ_Sample
+# RabbitMQ - Sample App
 RabbitMQ with Microservices.
