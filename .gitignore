@@ -2,9 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/RabbitMQ_Sample
-/.vs/RabbitMQ_Sample
+/RabbitMQ_Sample/.vs
 /packages
-/.vs/VSWorkspaceState.json
-/.vs
+/.vs/
 /Bin/
